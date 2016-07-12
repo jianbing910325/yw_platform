@@ -3,4 +3,4 @@
 
 import os
 import sys
-import tornado
+import tornado.web
